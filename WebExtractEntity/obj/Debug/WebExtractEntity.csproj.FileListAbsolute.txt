@@ -1,0 +1,9 @@
+c:\users\gabriel.lima\documents\visual studio 2015\Projects\WebExtractEntity\WebExtractEntity\bin\Debug\WebExtractEntity.exe.config
+c:\users\gabriel.lima\documents\visual studio 2015\Projects\WebExtractEntity\WebExtractEntity\bin\Debug\WebExtractEntity.exe
+c:\users\gabriel.lima\documents\visual studio 2015\Projects\WebExtractEntity\WebExtractEntity\bin\Debug\WebExtractEntity.pdb
+c:\users\gabriel.lima\documents\visual studio 2015\Projects\WebExtractEntity\WebExtractEntity\obj\Debug\WebExtractEntity.csprojResolveAssemblyReference.cache
+c:\users\gabriel.lima\documents\visual studio 2015\Projects\WebExtractEntity\WebExtractEntity\obj\Debug\WebExtractEntity.ExtractForm.resources
+c:\users\gabriel.lima\documents\visual studio 2015\Projects\WebExtractEntity\WebExtractEntity\obj\Debug\WebExtractEntity.Properties.Resources.resources
+c:\users\gabriel.lima\documents\visual studio 2015\Projects\WebExtractEntity\WebExtractEntity\obj\Debug\WebExtractEntity.csproj.GenerateResource.Cache
+c:\users\gabriel.lima\documents\visual studio 2015\Projects\WebExtractEntity\WebExtractEntity\obj\Debug\WebExtractEntity.exe
+c:\users\gabriel.lima\documents\visual studio 2015\Projects\WebExtractEntity\WebExtractEntity\obj\Debug\WebExtractEntity.pdb

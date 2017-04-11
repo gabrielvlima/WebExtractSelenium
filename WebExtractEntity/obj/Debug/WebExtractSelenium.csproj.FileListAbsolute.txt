@@ -1,0 +1,19 @@
+c:\users\gabriel.lima\documents\visual studio 2015\Projects\WebExtractEntity\WebExtractEntity\bin\Debug\WebExtractSelenium.exe.config
+c:\users\gabriel.lima\documents\visual studio 2015\Projects\WebExtractEntity\WebExtractEntity\bin\Debug\phantomjs.exe
+c:\users\gabriel.lima\documents\visual studio 2015\Projects\WebExtractEntity\WebExtractEntity\bin\Debug\phantomjs-license.txt
+c:\users\gabriel.lima\documents\visual studio 2015\Projects\WebExtractEntity\WebExtractEntity\bin\Debug\WebExtractSelenium.exe
+c:\users\gabriel.lima\documents\visual studio 2015\Projects\WebExtractEntity\WebExtractEntity\bin\Debug\WebExtractSelenium.pdb
+c:\users\gabriel.lima\documents\visual studio 2015\Projects\WebExtractEntity\WebExtractEntity\bin\Debug\WebDriver.dll
+c:\users\gabriel.lima\documents\visual studio 2015\Projects\WebExtractEntity\WebExtractEntity\bin\Debug\WebDriver.Support.dll
+c:\users\gabriel.lima\documents\visual studio 2015\Projects\WebExtractEntity\WebExtractEntity\bin\Debug\WebDriver.xml
+c:\users\gabriel.lima\documents\visual studio 2015\Projects\WebExtractEntity\WebExtractEntity\bin\Debug\WebDriver.Support.xml
+c:\users\gabriel.lima\documents\visual studio 2015\Projects\WebExtractEntity\WebExtractEntity\obj\Debug\WebExtractSelenium.csprojResolveAssemblyReference.cache
+c:\users\gabriel.lima\documents\visual studio 2015\Projects\WebExtractEntity\WebExtractEntity\obj\Debug\WebExtractEntity.ExtractForm.resources
+c:\users\gabriel.lima\documents\visual studio 2015\Projects\WebExtractEntity\WebExtractEntity\obj\Debug\WebExtractSelenium.Properties.Resources.resources
+c:\users\gabriel.lima\documents\visual studio 2015\Projects\WebExtractEntity\WebExtractEntity\obj\Debug\WebExtractSelenium.csproj.GenerateResource.Cache
+c:\users\gabriel.lima\documents\visual studio 2015\Projects\WebExtractEntity\WebExtractEntity\obj\Debug\WebExtractSelenium.exe
+c:\users\gabriel.lima\documents\visual studio 2015\Projects\WebExtractEntity\WebExtractEntity\obj\Debug\WebExtractSelenium.pdb
+C:\Users\gabriel.lima\Documents\Visual Studio 2015\Projects\WebExtractSelenium\WebExtractEntity\bin\Debug\WebExtractSelenium.exe.config
+C:\Users\gabriel.lima\Documents\Visual Studio 2015\Projects\WebExtractSelenium\WebExtractEntity\obj\Debug\WebExtractSelenium.exe
+C:\Users\gabriel.lima\Documents\Visual Studio 2015\Projects\WebExtractSelenium\WebExtractEntity\obj\Debug\WebExtractSelenium.pdb
+C:\Users\gabriel.lima\Downloads\WebExtractSelenium\WebExtractEntity\bin\Debug\phantomjs.exe
